@@ -1,4 +1,14 @@
 {
   "name": "@kishimy/uikit",
-  "version": "0.0.01"
+  "version": "0.0.01",
+  "description": "Simple test uikit plugin (in the future, for now it's just a function that return string)",
+  "license": "MIT",
+  "repository": "kishimy/uikit",
+  "main": "index.js",
+  "keywords": [
+    "uikit",
+    "npm",
+    "package",
+    "kishimy"
+  ]
 }
